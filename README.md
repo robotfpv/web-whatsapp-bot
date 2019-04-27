@@ -17,7 +17,43 @@ Script that saves you the hell lot of time to send the unlimited messages to Wha
 
   `install selenium`
 
-
 * Important: Place the chrome driver with the script(both should be in the same folder).
 
-* Copy the code to your IDE (we used Sublime Text 3)
+
+
+* Edit the message to be sent on Whatsapp.
+
+
+![MsgEdit](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/msg.png)
+
+
+
+* Enter the Number of messages you want to send
+
+
+![NumEdit](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/msgno.png)
+
+
+
+* Create the list of the phone number with the country prefix in a list of integers format (without any symbols or spaces).
+
+
+![listedit](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/list.png)
+
+
+
+* Scan the QR code wait time(by default 5 seconds).
+
+
+![QR](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/Capture1.png
+
+* Run the script.
+
+
+
+
+The program will take care of any invalid phone number.
+
+Spread some love and do remember to star our code.
+
+#made by robotfpv
