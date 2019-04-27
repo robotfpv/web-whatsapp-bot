@@ -45,7 +45,7 @@ Script that saves you the hell lot of time to send the unlimited messages to Wha
 * Scan the QR code wait time(by default 5 seconds).
 
 
-![QR](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/Capture1.png
+![QR](https://github.com/robotfpv/web-whatsapp-bot/blob/master/images/Capture1.png)
 
 * Run the script.
 
