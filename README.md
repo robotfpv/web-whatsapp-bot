@@ -10,13 +10,13 @@ Lo utilizamos para el mejor manejo de los cambios dentro del Repo considerando l
 
 ### Instructions
 
--Click here to download [python3](https://www.python.org/downloads/).
--Install python3 on your operating system.
--Now get the chrome driver from here. Make sure you have installed Chrome on your PC.
--Install selenium on python3 on using
+*Click here to download [python3](https://www.python.org/downloads/).
+*Install python3 on your operating system.
+*Now get the chrome driver from here. Make sure you have installed Chrome on your PC.
+*Install selenium on python3 on using
 
   `install selenium`
 
 
--Important: Place the chrome driver with the script(both should be in the same folder).
--Copy the code to your IDE (we used Sublime Text 3)
+*Important: Place the chrome driver with the script(both should be in the same folder).
+*Copy the code to your IDE (we used Sublime Text 3)
