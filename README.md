@@ -5,9 +5,6 @@ Script that saves you the hell lot of time to send the unlimited messages to Wha
 
    >Warning – These steps might get you banned permanently from using Whatsapp. So, use it wisely.
 
-## github_proyects
-Lo utilizamos para el mejor manejo de los cambios dentro del Repo considerando la organizacion para garantizar un mejor desempeño.
-
 ### Instructions
 
 * Click here to download [python3](https://www.python.org/downloads/).
