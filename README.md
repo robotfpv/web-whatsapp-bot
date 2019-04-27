@@ -19,7 +19,7 @@ Script that saves you the hell lot of time to send the unlimited messages to Wha
 
 * Important: Place the chrome driver with the script(both should be in the same folder).
 
-
+* Open web_whatsapp_bot.py with your favorite text editor
 
 * Edit the message to be sent on Whatsapp.
 
